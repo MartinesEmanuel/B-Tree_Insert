@@ -29,7 +29,4 @@ Para compilar e executar a implementação:
 `./btree`
 
 
-Certifique-se de ajustar os parâmetros de compilação conforme necessário para o seu ambiente.
-
-
 
